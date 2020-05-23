@@ -1,5 +1,8 @@
 body {
   background-color: #282c34;
+  text-align: center;
+  color: white;
+  font-size: 18px;
 }
 
 code {
@@ -7,16 +10,17 @@ code {
     monospace;
 }
 
-.Content {
-  text-align: center;
-  color: white;
+#LightNavbar{
+  min-height: 10vh;
 }
 
-.App-header {
-  min-height: 100vh;
+ul#footermenu {
+  min-height: 5vh;
   display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+  justify-content: space-between; 
+  list-style-type: none;
+}
+
+hr{
+  background-color: white;
 }

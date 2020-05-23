@@ -1,8 +1,11 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+
+import Content from './pages/Content';
+import LightNavbar from './components/LightNavbar';
+import Footer from './components/Footer';
+
 import './index.css';
-import Content from './content/Content';
-import LightNavbar from './lightnavbar/LightNavbar';
 
 ReactDOM.render(
   <React.StrictMode>
@@ -16,4 +19,11 @@ ReactDOM.render(
     <Content />
   </React.StrictMode>,
   document.getElementById('content')
+);
+
+ReactDOM.render(
+  <React.StrictMode>
+    <Footer />
+  </React.StrictMode>,
+  document.getElementById('footer')
 );
