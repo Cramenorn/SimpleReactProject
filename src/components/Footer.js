@@ -12,10 +12,10 @@ function Footer(){
                     <Row className="justify-content-md-center">
                         <Col sm={6}>
                             <ul id="footermenu">
-                                <li><a href="#">Linkedin</a></li>
-                                <li><a href="#">Twitter</a></li>
-                                <li><a href="#">Github</a></li>
-                                <li><a href="#">Facebook</a></li>
+                                <li><a class="bodylink" href="#">Linkedin</a></li>
+                                <li><a class="bodylink" href="#">Twitter</a></li>
+                                <li><a class="bodylink" href="#">Github</a></li>
+                                <li><a class="bodylink" href="#">Facebook</a></li>
                             </ul> 
                         </Col>
                     </Row>

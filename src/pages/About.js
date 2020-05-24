@@ -16,6 +16,10 @@ function About(){
                     <p>
                         I got a Diploma in Computer Science from Giuseppe Peano (Italy) high school and a Diploma in Integrated Back-End Services, post-high school course from ITS ICT Piemonte (Italy) with a score of 84/100.
                     </p>
+
+                    <p>
+                        Some of my tasks at work include analyze data and the logs to find the origin of a problem, create new components and plugins on the BackEnd side.
+                    </p>
                 </Col>
             </Row>
         </Container>

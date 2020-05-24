@@ -6,6 +6,7 @@ import LightNavbar from './components/LightNavbar';
 import Footer from './components/Footer';
 
 import './index.css';
+import './index.scss';
 
 ReactDOM.render(
   <React.StrictMode>

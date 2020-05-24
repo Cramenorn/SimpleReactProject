@@ -10,9 +10,15 @@ function Home(){
         <Container>
             <Row className="justify-content-md-center">
                 <Col sm={8}>
-                    <div>
-                        <h3>Full Stack Developer always looking for new challenges</h3>
-                    </div>
+                    <h3>Full Stack Developer always looking for new challenges</h3>
+
+                    <br />
+
+                    <a class="bodylink" href="#">Most recent post</a>
+                    <p>24/05/2020</p>
+
+                    <a class="bodylink" href="#">Another recent post</a>
+                    <p>24/05/2020</p>
                 </Col>
                 <Col sm={4}>
                     <h3>Next events:</h3>
