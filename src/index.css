@@ -5,6 +5,10 @@ body {
   font-size: 18px;
 }
 
+hr{
+  background-color: white;
+}
+
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
@@ -19,8 +23,4 @@ ul#footermenu {
   display: flex;
   justify-content: space-between; 
   list-style-type: none;
-}
-
-hr{
-  background-color: white;
 }
