@@ -2,7 +2,7 @@ A simple single page application created with **React JS**
 
 ## Test the project
 
-In the project directory, you can run `npm start`
+In the project directory type `npm install` to get the packages, after that you can run `npm start`
 
 Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
